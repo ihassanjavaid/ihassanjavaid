@@ -10,8 +10,9 @@ My latest interests are Flutter and Tensorflow 2.0! I'm aiming to make open-sour
 * 📖 Learning about `Machine Learning, Natural Language Processing, Computer Vision`.
 * ⚡ Tech Enthusiast - **Looking forward to Google I/O, Apple Keynotes.**
 * 🤝 Contributing to Open Source Projects
-* 💻 Personal Web page [Hassan Javaid](https://www.fiverr.com/hassanjavaid98) 
+* 💻 Personal Web page **[Hassan Javaid](https://www.fiverr.com/hassanjavaid98)** 
 
 Feel free to contact me. [📩 Contact Me](mailto:hassanmallick@outlook.com)
 
 &nbsp;&nbsp; [![LinkedIn](https://raw.githubusercontent.com/ihassanjavaid/ihassanjavaid/master/linkedin-icon.png)](https://www.linkedin.com/in/hasan-malik-042a69189/) &nbsp;&nbsp;[![Twitter](https://raw.githubusercontent.com/ihassanjavaid/ihassanjavaid/master/twitter-icon.png)](https://twitter.com/ihassanjavaid) &nbsp;&nbsp; [![Instagram](https://raw.githubusercontent.com/ihassanjavaid/ihassanjavaid/master/instagram-icon.png)](https://www.instagram.com/ihassanjavaid/) &nbsp;&nbsp; [![Fiverr](https://raw.githubusercontent.com/ihassanjavaid/ihassanjavaid/master/fiverr-icon.png)](https://www.fiverr.com/hassanjavaid98)
+ 

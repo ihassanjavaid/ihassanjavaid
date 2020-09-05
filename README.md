@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hassan Javaid [![HitCount](http://hits.dwyl.com/ihassanjavaid/ihassanjavaid.svg)](http://hits.dwyl.com/ihassanjavaid/ihassanjavaid)
+## Department of Computer Science, COMSATS University Islamabad, Pakistan. (2017 - Present)
 
-<!--
-**ihassanjavaid/ihassanjavaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software Engineer graduated form COMSATS University Islamabad. I work part-time on fiver. I have almost a 4 year experience of Mobile and Desktop development, and 2 years experience of Web development. I have expertise in Python, C/C#/C++ and Java. I develop Web apps in Nodejs, Reactjs and have expert level know how of HTML, CSS and JS.
 
-Here are some ideas to get you started:
+My latest interests are Flutter and Tensorflow 2.0! I'm aiming to make open-source artificially intelligent hybrid cross-platform mobile apps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 📫 Co-Founder **[Crea8ivity](https://www.instagram.com/crea8ivity/)**. A company making minimal and perfect designs.
+* 💬 Feel free to ask me about `Python, Java, C/C++/C#, Flutter, Firebase, DialogFlow, etc`.
+* 📖 Learning about `Machine Learning, Natural Language Processing, Computer Vision`.
+* ⚡ Tech Enthusiast - **Looking forward to Google I/O, Apple Keynotes.**
+* 🤝 Contributing to Open Source Projects
+* 💻 Personal Web page [Hassan Javaid](https://www.fiverr.com/hassanjavaid98) 
+
+Feel free to contact me. [📩 Contact Me](mailto:hassanmallick@outlook.com)
+
+&nbsp;&nbsp; [![LinkedIn](https://raw.githubusercontent.com/ihassanjavaid/ihassanjavaid/master/linkedin-icon.png)](https://www.linkedin.com/in/hasan-malik-042a69189/) &nbsp;&nbsp;[![Twitter](https://raw.githubusercontent.com/ihassanjavaid/ihassanjavaid/master/twitter-icon.png)](https://twitter.com/ihassanjavaid) &nbsp;&nbsp; [![Instagram](https://raw.githubusercontent.com/ihassanjavaid/ihassanjavaid/master/instagram-icon.png)](https://www.instagram.com/ihassanjavaid/) &nbsp;&nbsp; [![Fiverr](https://raw.githubusercontent.com/ihassanjavaid/ihassanjavaid/master/fiverr-icon.png)](https://www.fiverr.com/hassanjavaid98)

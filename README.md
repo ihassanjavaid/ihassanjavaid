@@ -1,4 +1,4 @@
-# Hassan Javaid [![HitCount](http://hits.dwyl.com/ihassanjavaid/ihassanjavaid.svg)](http://hits.dwyl.com/ihassanjavaid/ihassanjavaid)
+# Hassan Javaid ![visitors](https://visitor-badge.glitch.me/badge?page_id=ihassanjavaid.ihassanjavaid)
 ## Department of Software, Huawei Technologies Co., Ltd, Islamabad. (2019)
 ## Department of Computer Science, COMSATS University Islamabad, Pakistan. (2017 - Present)
 

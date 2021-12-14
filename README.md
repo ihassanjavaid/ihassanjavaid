@@ -1,5 +1,6 @@
 # Hassan Javaid ![visitors](https://visitor-badge.glitch.me/badge?page_id=ihassanjavaid.ihassanjavaid)
-## Digital Products & Solutions, Jazz, DHQ Islamabad. (2021 - Present)
+## Associate Consultant - IT Products | Supply Chain Management | Visionet Systems Inc. (2021 - Present)
+## Digital Products & Solutions, Jazz, DHQ Islamabad. (2021)
 ## Department of Software, Huawei Technologies Co., Ltd, Islamabad. (2019)
 ## Department of Computer Science, COMSATS University Islamabad, Pakistan. (2017 - 2021)
 

@@ -1,8 +1,9 @@
 # Hassan Javaid ![visitors](https://visitor-badge.glitch.me/badge?page_id=ihassanjavaid.ihassanjavaid)
-## Associate Consultant - IT Products | Supply Chain Management | Visionet Systems Inc. (2021 - Present)
-## Digital Products & Solutions, Jazz, DHQ Islamabad. (2021)
-## Department of Software, Huawei Technologies Co., Ltd, Islamabad. (2019)
-## Department of Computer Science, COMSATS University Islamabad, Pakistan. (2017 - 2021)
+## Data Engineer | Jazz, DHQ Islamabad (2022 - Present)
+## Associate Software Engineer | Supply Chain Management | Visionet Systems Inc. (2021 - 2022)
+## Intern | Digital Products & Solutions | Jazz, DHQ Islamabad. (2021)
+## Intern | Department of Software | Huawei Technologies Co., Ltd, Islamabad. (2019)
+## Department of Computer Science | COMSATS University Islamabad, Pakistan. (2017 - 2021)
 
 I am a Software Engineer graduated form COMSATS University Islamabad. I work part-time on fiver. I have almost a 4 year experience of Mobile and Desktop development, and 2 years experience of Web development. I have expertise in Python, C/C#/C++ and Java. I develop Web apps in Nodejs, Reactjs and have expert level know how of HTML, CSS and JS.
 

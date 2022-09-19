@@ -1,4 +1,4 @@
-# Hassan Javaid ![visitors](https://visitor-badge.glitch.me/badge?page_id=ihassanjavaid.ihassanjavaid)
+# Hasan Javaid Malik ![visitors](https://visitor-badge.glitch.me/badge?page_id=ihassanjavaid.ihassanjavaid)
 ## Data Engineer | Jazz, DHQ Islamabad (2022 - Present)
 ## Associate Software Engineer | Supply Chain Management | Visionet Systems Inc. (2021 - 2022)
 ## Intern | Digital Products & Solutions | Jazz, DHQ Islamabad. (2021)
